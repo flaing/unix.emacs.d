@@ -1,0 +1,20 @@
+ls
+cd cod
+cd code
+ls
+lein
+ls
+ls -la
+mv Clojure\ Data\ Structures\ and\ Algorithms\ Cookbook/ cdsaac
+cd cdsaac
+ls
+cd Chapter\ 
+cd Chapter\ 1
+ls
+cd recipe4/
+ls
+cd ..
+cd recipe1
+ls
+emacs project.clj
+open hello.html 

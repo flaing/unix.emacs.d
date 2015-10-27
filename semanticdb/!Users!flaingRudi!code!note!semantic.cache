@@ -1,0 +1,51 @@
+;; Object note/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "note/"
+  :tables
+  (list
+    (semanticdb-table "note.java"
+      :major-mode 'jdee-mode
+      :tags nil
+      :file "note.java"
+      :pointmax 94
+      :fsize 93
+      :lastmodtime '(22020 65473 0 0)
+      :unmatched-syntax '((PAREN_BLOCK 90 . 92) (IDENTIFIER 83 . 90) (DOT 82 . 83) (IDENTIFIER 81 . 82) (EQ 79 . 80) (IDENTIFIER 77 . 78) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 94 . 95) (PAREN_BLOCK 90 . 92) (IDENTIFIER 83 . 90) (DOT 82 . 83) (IDENTIFIER 81 . 82) (EQ 79 . 80) (IDENTIFIER 77 . 78) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (PAREN_BLOCK 90 . 92) (IDENTIFIER 83 . 90) (DOT 82 . 83) (IDENTIFIER 81 . 82) (EQ 79 . 80) (IDENTIFIER 77 . 78) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (PAREN_BLOCK 90 . 92) (IDENTIFIER 83 . 90) (DOT 82 . 83) (IDENTIFIER 81 . 82) (EQ 79 . 80) (IDENTIFIER 77 . 78) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 83 . 90) (DOT 82 . 83) (IDENTIFIER 81 . 82) (EQ 79 . 80) (IDENTIFIER 77 . 78) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 83 . 89) (DOT 82 . 83) (IDENTIFIER 81 . 82) (EQ 79 . 80) (IDENTIFIER 77 . 78) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 83 . 88) (DOT 82 . 83) (IDENTIFIER 81 . 82) (EQ 79 . 80) (IDENTIFIER 77 . 78) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 81 . 82) (EQ 79 . 80) (IDENTIFIER 77 . 78) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (EQ 79 . 80) (IDENTIFIER 77 . 78) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 77 . 78) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (BOOLEAN 69 . 76) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (PAREN_BLOCK 58 . 67) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 51 . 58) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 51 . 56) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (DOT 50 . 51) (IDENTIFIER 49 . 50) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (EQ 47 . 48) (IDENTIFIER 45 . 46) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 37 . 44) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 37 . 42) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (PAREN_BLOCK 28 . 35) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 21 . 28) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (DOT 20 . 21) (IDENTIFIER 13 . 20) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (EQ 11 . 12) (IDENTIFIER 9 . 10) (IDENTIFIER 1 . 8) (IDENTIFIER 2 . 3)))
+    (semanticdb-table "note.cpp"
+      :major-mode 'c++-mode
+      :tags 
+        '( ("solution" variable
+               (:dereference 2
+                :type "bool")
+                nil [1 21])
+            ("mx" variable
+               (:dereference 1
+                :type "bool")
+                nil [22 57])
+            ("my" variable
+               (:dereference 1
+                :type "bool")
+                nil [22 57])
+            ("mdl" variable
+               (:dereference 1
+                :type "bool")
+                nil [22 57])
+            ("md2" variable
+               (:dereference 1
+                :type "bool")
+                nil [22 57])
+            ("backtrack" function
+               (:arguments 
+                  ( ("x" variable (:type "int") (reparse-symbol arg-sub-list) [74 80])
+                    ("y" variable (:type "int") (reparse-symbol arg-sub-list) [81 87])
+                    ("c" variable (:type "int") (reparse-symbol arg-sub-list) [88 94]))                  
+                :type "void")
+                nil [59 587]))          
+      :file "note.cpp"
+      :pointmax 587
+      :fsize 586
+      :lastmodtime '(22020 65473 0 0)
+      :unmatched-syntax '((symbol 64 . 73) (VOID 59 . 63) (symbol 64 . 73) (punctuation 56 . 57) (semantic-list 52 . 56) (semantic-list 43 . 47) (semantic-list 36 . 39) (punctuation 20 . 21) (semantic-list 17 . 20) (semantic-list 14 . 17) (symbol 472 . 478) (INT 468 . 471) (INT 468 . 471) (symbol 416 . 433) (VOID 411 . 415) (symbol 416 . 433) (VOID 411 . 415) (symbol 416 . 429) (VOID 411 . 415) (symbol 416 . 426) (VOID 411 . 415) (symbol 25 . 34) (VOID 20 . 24))))
+  :file "!Users!flaingRudi!code!note!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")
