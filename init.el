@@ -64,7 +64,8 @@
                 ;;         :foundry "nil"
                          :family "Courier")))))
 
-
+;; haskell
+(add-hook 'haskell-mode-hook 'turn-on-haskell-indentation)
 
 ;; jsx-mode
 (require 'jsx-mode)
